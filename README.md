@@ -1,3 +1,1 @@
-# test
-
-windowshttps://kiwivm.64clouds.com/dist/ShadowsocksR-4.6.1-win.7z
+ssr://NjcuMjE2LjE5Ni4yMDU6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6VVhkbVJFUkpTekpKWWcvP29iZnNwYXJhbT0mcmVtYXJrcz1OamN1TWpFMkxqRTVOaTR5TURVJmdyb3VwPVltRmllUQ
